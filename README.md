@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="left">
- <h4>- 🔭 Hoje trabalhando como Desenvolvedor back-end</h4>
+ <h4>- 🔭 Trabalho como Desenvolvedor back-end</h4>
 </div >
 <hr>
 <div align="center">
