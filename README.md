@@ -3,9 +3,9 @@
  <h2> 👨‍💻 Trabalho como Desenvolvedor back-end</h2>
 </div >
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R0ny-0n0ri0&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=R0ny-0n0ri0&show_icons=true&theme=light&include_all_commits=true&count_private=true%22/%3E"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ny-0n0ri0&layout=compact&langs_count=7&theme=dark%22/%3E"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ny-0n0ri0&layout=compact&langs_count=7&theme=light%22/%3E"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Rony-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
