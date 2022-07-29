@@ -1,14 +1,6 @@
 <div align="left">
  <h2> 💼 Trabalho como Desenvolvedor back-end </h2>
 </div >
-
-<div>
-  ![Snake animation](https://github.com/R0ny-0n0ri0/R0ny-0n0ri0/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<div align="left">
-<h2>👨‍💻 Skil</h2>
-</div >
 <div align="center">
 <div style="display: inline_block"><br>
    <img align="center" alt="Rony-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
