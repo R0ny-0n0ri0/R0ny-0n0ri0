@@ -24,7 +24,7 @@
 
 <div align="center">
 <h2> </h2>
-</div >
+</div > 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rony-on%C3%B3rio-826577208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
