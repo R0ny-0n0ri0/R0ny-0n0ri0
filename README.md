@@ -1,5 +1,5 @@
 <div align="center">
- <h2> 💼 Trabalho como Desenvolvedor back-end </h2>
+ <h2> 💼 Trabalho como Desenvolvedor back-end! </h2>
 </div >
 <div align="center">
 <div style="display: inline_block"><br>
