@@ -3,15 +3,8 @@
 </div >
 <div align="center">
 </div>
-<div align="center">
- <br>
-  
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0ny-0n0ri0&layout=compact&langs_count=7&theme=light%22/%3E"/>
-</div>
 
 <div align="center">
-<h2> </h2>
 </div > 
 
 <div align="center">
